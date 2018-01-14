@@ -1,0 +1,21 @@
+{
+  "name": "friends-filter",
+  "version": "0.0.0",
+  "description": "Filter of VK friends",
+  "main": "",
+  "authors": [
+    "Roman Belov"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Otezzz/Friends-filter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*"
+  }
+}

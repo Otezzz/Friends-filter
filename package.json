@@ -1,8 +1,25 @@
 {
-  "name": "Friends-filter",
+  "name": "friends-filter",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Otezzz/Friends-filter.git",
-  "author": "Belov Roman <otezzz1982@gmail.com>",
-  "license": "MIT"
+  "description": "Filter of VK friends",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otezzz/Friends-filter.git"
+  },
+  "author": "Roman Belov",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.23.5",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "rimraf": "^2.6.2"
+  }
 }
