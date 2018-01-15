@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "normalize.css": "*"
+    "normalize.css": "*",
+    "handlebars": "^4.0.11"
   }
 }
